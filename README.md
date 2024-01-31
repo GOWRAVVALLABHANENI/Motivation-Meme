@@ -1,6 +1,9 @@
 
-![Image 1](./assests/images/lion pic.jpg)
+
+  ![lion pic](https://github.com/GOWRAVVALLABHANENI/Motivation-Meme/assets/130890581/f70ae491-5b97-447b-9aa6-b3069aecfcf2)
+ 
   TODO: Create a motivational post website.
+
 Style it how ever you like. 
 Look at the goal image for inspiration.
 But it must have the following features:
